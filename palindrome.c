@@ -14,11 +14,11 @@ n/=10;
 }
 if(org==rev)
 {
-printf("palindrome.");
+printf("YES");
 }
 else
 {
-printf(" not a palindrome.");
+printf("NO");
 }
 getch();
 }
